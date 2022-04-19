@@ -31,6 +31,7 @@ Add Room :
 - In the Add Room window there is a table with the entire list of rooms in the hotel.
 - Adding a room by the following data : Room Number, Room Type, Room Style and Price.
 - Clicking "Add room" will add the room to the database, "booked" column default is 'NO'.
+
 Customer Registration :
 
 - Form with customer details including check-in date.
@@ -43,6 +44,7 @@ Single Room - 120
 Double Room - 200
 Family / Suite Room - 350
 - The room status in the "booked" column will change to 'YES'.
+
 Check Out :
 
 - In the Check Out window there is a table with a list of the hotel's customers who checked in.
@@ -52,6 +54,7 @@ Check Out :
 Customer Detils :
 
 - Display customers details at the hotel by filtering (all customers, in hotel customers, check out customers).
+
 Employee :
 
 - Hotel employee management page :
@@ -59,5 +62,6 @@ Register Employee
 Delete Employee
 Employee Details
 - All employees are in the database in the Employee table.
-Contact
-Linkdin Profile : http://www.linkedin.com/in/bar-abergel-783689230
+
+
+Contact Linkdin Profile : http://www.linkedin.com/in/bar-abergel-783689230
